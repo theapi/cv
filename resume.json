@@ -1,0 +1,135 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Peter Clarke",
+    "label": "Software Engineer",
+    "url": "https://github.com/theapi/cv",
+    "summary": "With my degree in art and more than 25 years of developing web sites and applications, I bring experience, creativity and technical knowledge to all the projects I work on. I have managed all stages of the production cycle from requirements gathering and production, to final delivery and review. I have produced projects for clients such as Saatchi & Saatchi, BT, Emirates, Volvo, DTI, Dulux, UCI Cinemas, Leagas Delaney and Cellnet. I have planned, built and delivered varied websites and web applications, ranging from bespoke CMS solutions to corporate intranets. From online interactive and streaming TV to SMS applications.",
+    "location": {
+      "city": "London",
+      "countryCode": "EN"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "non yet",
+        "url": ""
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Dennis Publishing",
+      "location": "London, England",
+      "position": "Technical Lead, Software Engineer",
+      "startDate": "2010-04-21",
+      "summary": "__TODO__",
+      "highlights": [
+        "__TODO__"
+      ]
+    },
+    {
+      "name": "Jingo Communications",
+      "location": "London, England",
+      "position": "Technical Lead, Software Engineer",
+      "startDate": "2000-03-01",
+      "endDate": "2010-03-01",
+      "summary": "__TODO__",
+      "highlights": [
+        "__TODO__"
+      ]
+    }
+  ],
+
+  "education": [
+    {
+      "institution": "Academy of Art, San Francisco",
+      "url": "https://www.academyart.edu/",
+      "area": "Advertising",
+      "studyType": "Bachelor",
+      "startDate": "1989",
+      "endDate": "1993"
+    }
+  ],
+  "publications": [
+    {
+      "name": "How to build a Robot",
+      "publisher": "Dennis Publishng",
+      "releaseDate": "2014-11-06",
+      "url": "https://www.amazon.co.uk/How-build-Robot-PC-Pro/dp/1781063133/",
+      "summary": "Technical consultant; providing the hardware designs, software and illustrations."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "PHP",
+        "Node.js",
+        "HTML",
+        "CSS",
+        "Javascript"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "projects": [
+    {
+      "name": "BuyaCar",
+      "description": "Site for buying cars online delivered to your door.",
+      "url": "https://www.buyacar.co.uk/",
+      "highlights": [
+        "__TODO__"
+      ],
+      "keywords": [
+        "Elasticsearch",
+        "CAP HPI",
+        "PHP",
+        "API",
+        "REST",
+        "Search"
+      ],
+      "startDate": "2011",
+      "endDate": "2018",
+      "roles": [
+        "Software Engineer"
+      ],
+      "entity": "Dennis Publishing",
+      "type": "application"
+    },
+    {
+      "name": "Jingo Intranet",
+      "description": "An intranet, extranet and instant messaging tool.",
+      "highlights": [
+        "Developed the PHP application and messaging tool",
+        "Collaborated with clients to develop bespoke solutions",
+        "Ensured W3C, WCAG and section 508 standards compliance",
+        "Clients include: BT Agile Media, Leagas Delaney, Neilson Activity Holidays, Fitness TV and Saatchi & Saatchi"
+      ],
+      "keywords": [
+        "Intranet",
+        "PHP",
+        "Instan Messaging",
+        "Advertising"
+      ],
+      "startDate": "2004",
+      "endDate": "2010",
+      "roles": [
+        "Software Developer"
+      ],
+      "entity": "Jingo",
+      "type": "application"
+    }
+  ],
+  "meta": {
+    "canonical": "https://github.com/theapi/cv/main/resume.json",
+    "version": "v0.0.1",
+    "lastModified": "2021-09-03T13:23:00"
+  }
+}

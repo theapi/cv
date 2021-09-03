@@ -1,0 +1,27 @@
+{
+  "name": "cv",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theapi/cv.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theapi/cv/issues"
+  },
+  "homepage": "https://github.com/theapi/cv#readme",
+  "dependencies": {
+    "jsonresume-theme-short": "^0.1.7",
+    "jsonresume-theme-stackoverflow": "^1.4.0",
+    "resume-cli": "^3.0.5"
+  }
+}
