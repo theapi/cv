@@ -3,6 +3,7 @@
   "basics": {
     "name": "Peter Clarke",
     "label": "Software Engineer",
+    "email": "peterclarkecv@gmail.com",
     "url": "https://github.com/theapi/cv",
     "summary": "With my degree in art and more than 25 years of developing web sites and applications, I bring experience, creativity and technical knowledge to all the projects I work on. I have managed all stages of the production cycle from requirements gathering and production, to final delivery and review. I have produced projects for clients such as Saatchi & Saatchi, BT, Emirates, Volvo, DTI, Dulux, UCI Cinemas, Leagas Delaney and Cellnet. I have planned, built and delivered varied websites and web applications, ranging from bespoke CMS solutions to corporate intranets. From online interactive and streaming TV to SMS applications.",
     "location": {
@@ -62,14 +63,24 @@
   ],
   "skills": [
     {
-      "name": "Web Development",
-      "level": "Master",
+      "name": "Software Engineer",
       "keywords": [
         "PHP",
-        "Node.js",
-        "HTML",
-        "CSS",
-        "Javascript"
+        "Node",
+        "Javascript",
+        "AWS",
+        "Lambda",
+        "API Gateway",
+        "SQS",
+        "AppSync",
+        "GraphQL",
+        "Elasticsearch",
+        "Linux",
+        "Drupal",
+        "Laravel",
+        "Symphony",
+        "Git",
+        "HTML"
       ]
     }
   ],
